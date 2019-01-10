@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\baris\source\repos\gui2_2\gui2_2\source.cpp(31): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+c:\users\baris\source\repos\gui2_2\gui2_2\source.cpp(36): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+c:\users\baris\source\repos\gui2_2\gui2_2\source.cpp(101): warning C4101: 'hFont': unreferenced local variable
+  LINK : C:\Users\Baris\source\repos\GUI2_2\Debug\GUI2_2.exe not found or not built by the last incremental link; performing full link
+  GUI2_2.vcxproj -> C:\Users\Baris\source\repos\GUI2_2\Debug\GUI2_2.exe

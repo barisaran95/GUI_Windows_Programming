@@ -1,0 +1,16 @@
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Baris\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
